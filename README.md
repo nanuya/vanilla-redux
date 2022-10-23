@@ -1,1 +1,1 @@
-# vanilla-redux
+# vanilla redux
